@@ -1,2 +1,3 @@
 # git_test
-First Repo
+My First Repo
+Hello Odin Community!
